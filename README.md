@@ -15,7 +15,7 @@ V budoucím výzkumu může být členění provedeno jemněji.
 
 This repository contains the data referred to in the bachelor thesis *The ability of some Czech prepositions to follow their complement*, sorted and annotated (on a basic level). The concordance lines are annotated as follows:
 
-**1** = "normal" prepositional use of the adposition in KWIC  
+**1** = "normal", i.e. prepositional use of the adposition in KWIC  
 **2** = postpositional use of the adposition in KWIC  
 **3** = different use (not an adposition, intransitive, errata etc.)
 
