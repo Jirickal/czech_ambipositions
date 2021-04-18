@@ -6,7 +6,7 @@
 Tento repozitář obsahuje utříděné a označené materiály a konkordance, k nimž je odkazováno v bakalářské práci *„Tradici navzdory“ – možnost výskytu některých českých předložek na pozici následující komplementu.* Značení řádků se řídí následujícím klíčem:
 
 **1** = běžné prepoziční užití v KWIC  
-**2** = postpoziční užití v KWIC (složka „clear“ obsahuje pouze takové výskyty)  
+**2** = postpoziční užití v KWIC (soubory ve složce „clear“ obsahuje pouze takové výskyty)  
 **3** = jiné užití (intranzitivní, překlep apod.)
 
 V budoucím výzkumu může být členění provedeno jemněji.
