@@ -23,4 +23,4 @@ This repository contains the data referred to in the bachelor thesis *The abilit
 
 The annotation might be further refined for the purposes of the following research.
 
-The files named conc_<adposition>-full.csv contain the full concordances obtained through the respective CQL query. Concordances with over 400 lines were not analyzed in their entirety. Rather, a 300-line sample was taken. Such files are named conc_<adposition>-sample.csv.
+The files named like conc_adposition-full.csv contain the full concordances obtained through the respective CQL query. Concordances with over 400 lines were not analyzed in their entirety. Rather, a 300-line sample was taken. Such files are named conc_adposition-sample.csv.
