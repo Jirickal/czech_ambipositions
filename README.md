@@ -13,7 +13,7 @@ V budoucím výzkumu může být členění provedeno jemněji.
 
 Označení souborů jako „sample“ či „full“ naznačuje, zda se jedná o vzorek konkordance vyhovující dotazu v CQL či o celou konkordanci (to záviselo na arbitrárně stanovené hranici maxima 400 manuálně procházených výskytů, vzorky mají plošně velikost 300 řádků).
 
-Složka „collocations“ obsahuje tabulky s kolokačními mírami vygenerované pro potenciální kolokáty rozhraním KonText (https://www.korpus.cz/kontext). První pozice značí frekvenci, druhá MI-score, třetí T-score a čtvrtá hodnotu logDice.
+Složka „collocations“ obsahuje tabulky s kolokačními mírami vygenerované pro potenciální kolokáty rozhraním KonText vyvíjeným na ÚČNK (https://www.korpus.cz/kontext). První pozice značí frekvenci, druhá MI-score, třetí T-score a čtvrtá hodnotu logDice.
 
 ## English
 
@@ -27,4 +27,4 @@ The annotation might be further refined for the purposes of the following resear
 
 The files named like conc_adposition-full.csv contain the full concordances obtained through the respective CQL query. Concordances with over 400 lines were not analyzed in their entirety. Rather, a 300-line sample was taken. Such files are named conc_adposition-sample.csv.
 
-The "collocations" folder contains files with the information about the analyzed ambipositions' potential collocates. The first number on each line refers to the absolute frequency of the word in the analyzed sample, followed by MI-score (2nd position), T-score (3rd) and logDice (4th).
+The "collocations" folder contains files with the information about the analyzed ambipositions' potential collocates, found by the KonText interface/toolset developed by ÚČNK (https://www.korpus.cz/kontext). The first number on each line refers to the absolute frequency of the word in the analyzed sample, followed by MI-score (2nd position), T-score (3rd) and logDice (4th).
