@@ -15,6 +15,8 @@ Označení souborů jako „sample“ či „full“ naznačuje, zda se jedná o
 
 Složka „collocations“ obsahuje tabulky s kolokačními mírami vygenerované pro potenciální kolokáty rozhraním KonText vyvíjeným na ÚČNK (https://www.korpus.cz/kontext). První pozice značí frekvenci, druhá MI-score, třetí T-score a čtvrtá hodnotu logDice.
 
+Složka „txtype“ obsahuje informace o frekvenci jednotlivých typů textů v konkordancích, kde je slovo „navzdory“ užito prepozičně/postpozičně.
+
 ## English
 
 This repository contains the data referred to in the bachelor thesis *The ability of some Czech prepositions to follow their complement*, sorted and annotated (on a basic level). The concordance lines are annotated as follows:
@@ -28,3 +30,5 @@ The annotation might be further refined for the purposes of the following resear
 The files named like conc_adposition-full.csv contain the full concordances obtained through the respective CQL query. Concordances with over 400 lines were not analyzed in their entirety. Rather, a 300-line sample was taken. Such files are named conc_adposition-sample.csv.
 
 The "collocations" folder contains files with the information about the analyzed ambipositions' potential collocates, found by the KonText interface/toolset developed by ÚČNK (https://www.korpus.cz/kontext). The first number on each line refers to the absolute frequency of the word in the analyzed sample, followed by MI-score (2nd position), T-score (3rd) and logDice (4th).
+
+The "txtype" folder contains information about the distribution of text types in two concordances – one for the prepositional use of "navzdory", one for the postpositional.
