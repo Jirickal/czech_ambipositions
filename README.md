@@ -17,7 +17,7 @@ Složka „collocations“ obsahuje tabulky s kolokačními mírami vygenerovan�
 
 Složka „txtype“ obsahuje informace o frekvenci jednotlivých typů textů v konkordancích, kde je slovo „navzdory“ užito prepozičně/postpozičně.
 
-Všechny citované texty pocházejí z korpusu SYN2020 (viz https://wiki.korpus.cz/doku.php/cnk:syn2020).
+Všechny citované texty pocházejí z korpusu SYN2020 (viz https://wiki.korpus.cz/doku.php/cnk:syn2020).  
 KŘEN, M., V. CVRČEK, J. HENYŠ, M. HNÁTKOVÁ, T. JELÍNEK, J. KOCEK, D. KOVÁŘÍKOVÁ, J. KŘIVAN, J. MILIČKA, V. PETKEVIČ, P. PROCHÁZKA, H. SKOUMALOVÁ, J. ŠINDLEROVÁ, M. ŠKRABAL, 2020. SYN2020: reprezentativní korpus psané češtiny [online]. [cit. 2021-04-21]. Praha: Ústav Českého národního korpusu FF UK. Dostupný z: http://www.korpus.cz.
 
 ## English
@@ -36,5 +36,5 @@ The "collocations" folder contains files with the information about the analyzed
 
 The "txtype" folder contains information about the distribution of text types in two concordances – one for the prepositional use of "navzdory", one for the postpositional.
 
-All the cited items were sourced from the SYN2020 corpus (see https://wiki.korpus.cz/doku.php/en:cnk:syn2020)
+All the cited items were sourced from the SYN2020 corpus (see https://wiki.korpus.cz/doku.php/en:cnk:syn2020).  
 Křen, M. – Cvrček, V. – Henyš, J. – Hnátková, M. – Jelínek, T. – Kocek, J. – Kováříková, D. – Křivan, J. – Milička, J. – Petkevič, V. – Procházka, P. – Skoumalová, H. – Šindlerová, J. – Škrabal, M. "SYN2020: reprezentativní korpus psané češtiny." Institute of the Czech National Corpus CU FA, 2020. Available from http://www.korpus.cz.
